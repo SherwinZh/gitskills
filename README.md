@@ -1,2 +1,1 @@
-Creating a new branch is quick.
-And this is second insert.
+Creating a new branch is quick and simple.
